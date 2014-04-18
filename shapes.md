@@ -1,11 +1,11 @@
 ---
-title: This will be used as the title-tag of the page head
+title: Gallery of interesting shapes
 layout: layout
 ---
 
-# This is a H1
+# Gallery of Interesting Shapes
 
-[the clickable text](http://xlson.com/)
+![A Shape](http://uw-geog458-spr2014.github.io/galleries/shapes/lrb9-gallery.svg)
 
-* Bullet lists are also easy to create
-* One more
+
+
