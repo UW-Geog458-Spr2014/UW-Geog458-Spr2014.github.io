@@ -9,5 +9,5 @@ A [poor!] example: ![A Shape](http://uw-geog458-spr2014.github.io/galleries/shap
 
 ## Shape from Kasim and Cole
 
-A Heptagon: ![Heptagon](![A shape](http://uw-geog458-spr2014.github.io/galleries/shapes/cbessee-kasims44-gallery.svg)
+A Heptagon: ![Heptagon](http://uw-geog458-spr2014.github.io/galleries/shapes/cbessee-kasims44-gallery.svg)
 
