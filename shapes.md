@@ -13,4 +13,4 @@ A Heptagon: ![Heptagon](http://uw-geog458-spr2014.github.io/galleries/shapes/cbe
 
 #Shape from Yunan and Jessica
 
-A Star: ![Star](http://uw-geog458-spr2014.github.io/galleries/shapes/fre2dy-jscha92.svg)
+A Pentagon 5.1*10: ![Star](http://uw-geog458-spr2014.github.io/galleries/shapes/fre2dy-jscha92.svg)
