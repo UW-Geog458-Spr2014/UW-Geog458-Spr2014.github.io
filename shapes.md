@@ -11,3 +11,6 @@ A [poor!] example: ![A Shape](http://uw-geog458-spr2014.github.io/galleries/shap
 
 A Heptagon: ![Heptagon](http://uw-geog458-spr2014.github.io/galleries/shapes/cbessee-kasims44-gallery.svg)
 
+#Shape from Yunan and Jessica
+
+A Star: ![Star](http://uw-geog458-spr2014.github.io/galleries/shapes/fre2dy-jscha92.svg)
