@@ -21,4 +21,4 @@ Hexagon: ![Hexagon](http://uw-geog458-spr2014.github.io/galleries/shapes/short-s
 
 ## Shape from Kevin and Alana
 
-![A heptagram](http://uw-geog458-spr2014.github.io/galleries/shapes/mason_kim-gallery.svg)
+Heptagram: ![A heptagram](http://uw-geog458-spr2014.github.io/galleries/shapes/mason_kim-gallery.svg)
