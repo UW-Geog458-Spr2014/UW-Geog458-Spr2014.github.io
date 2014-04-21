@@ -31,6 +31,6 @@ Decagon: ![A decagon](http://uw-geog458-spr2014.github.io/galleries/shapes/pytho
 
 fancy sqaure ![fancy sqaure] (http://uw-geog458-spr2014.github.io/galleries/shapes/Pitchaya_pic.svg)
 
-## Tried to make a pink flower made by Theresa and Luke 
+## Shape from Theresa and Luke 
 
 Pink Flower: ![Pink flower](http://uw-geog458-spr2014.github.io/galleries/shapes/yoshitheturtle-theresa_luke.svg)
