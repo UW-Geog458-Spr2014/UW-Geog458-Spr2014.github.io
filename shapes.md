@@ -30,3 +30,7 @@ Decagon: ![A decagon](http://uw-geog458-spr2014.github.io/galleries/shapes/pytho
 ## shape from Pitchaya
 
 fancy sqaure ![fancy sqaure] (http://uw-geog458-spr2014.github.io/galleries/shapes/Pitchaya_pic.svg)
+
+#Tried to make a pink flower 
+
+Pink Flower ! [pink flower](http://uw-geog458-spr2014.github.io/galleries/shapes/yoshitheturtle_by_theresa-luke.svg)
