@@ -17,4 +17,4 @@ A Star: ![Star](http://uw-geog458-spr2014.github.io/galleries/shapes/fre2dy-jsch
 
 ## Shape from Alana and Kevin
 
-A Septagram ![Septagram](http://uw-geog458-spr2014.github.io/galleries/shapes/mason_kim-gallery.svg)
+A Septagram: ![Septagram](http://uw-geog458-spr2014.github.io/galleries/shapes/mason_kim-gallery.svg)
