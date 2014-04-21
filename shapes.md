@@ -29,4 +29,4 @@ Decagon: ![A decagon](http://uw-geog458-spr2014.github.io/galleries/shapes/pytho
 
 ## shape from Pitchaya
 
-fancy sqaure ![fancy sqaure] (http://uw-geog458-spr2014.github.io/galleries/shapes/pitchaya_pic.svg)
+fancy sqaure ![fancy sqaure] (http://uw-geog458-spr2014.github.io/galleries/shapes/Pitchaya_pic.svg)
