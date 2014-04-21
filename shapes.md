@@ -15,6 +15,6 @@ A Heptagon: ![Heptagon](http://uw-geog458-spr2014.github.io/galleries/shapes/cbe
 
 A Star: ![Star](http://uw-geog458-spr2014.github.io/galleries/shapes/fre2dy-jscha92.svg)
 
-Hexagon: ![A shape](http://uw-geog458-spr2014.github.io/galleries/shapes/short-skinner.svg)
+Hexagon: ![Hexagon](http://uw-geog458-spr2014.github.io/galleries/shapes/short-skinner.svg)
 
 # This shape brought to you by Alex Skinner and Nick Short
