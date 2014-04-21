@@ -26,3 +26,7 @@ Heptagram: ![A heptagram](http://uw-geog458-spr2014.github.io/galleries/shapes/m
 ## Shape from Neela and Truong 
 
 Decagon: ![A decagon](http://uw-geog458-spr2014.github.io/galleries/shapes/python_neela.svg)
+
+## shape from Pitchaya
+
+fancy sqaure ![fancy sqaure] (http://uw-geog458-spr2014.github.io/galleries/shapes/pitchaya_pic.svg)
