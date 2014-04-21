@@ -18,3 +18,7 @@ A Star: ![Star](http://uw-geog458-spr2014.github.io/galleries/shapes/fre2dy-jsch
 Hexagon: ![Hexagon](http://uw-geog458-spr2014.github.io/galleries/shapes/short-skinner.svg)
 
 # This shape brought to you by Alex Skinner and Nick Short
+
+## Shape from Kevin and Alana
+
+![A heptagram](http://uw-geog458-spr2014.github.io/galleries/shapes/mason_kim-gallery.svg)
