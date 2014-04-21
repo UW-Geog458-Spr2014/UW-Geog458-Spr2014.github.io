@@ -22,3 +22,7 @@ Hexagon: ![Hexagon](http://uw-geog458-spr2014.github.io/galleries/shapes/short-s
 ## Shape from Kevin and Alana
 
 Heptagram: ![A heptagram](http://uw-geog458-spr2014.github.io/galleries/shapes/mason_kim-gallery.svg)
+
+## Shape from Neela and Truong 
+
+Pentagon: ![A pentagon](http://uw-geog458-spr2014.github.io/galleries/shapes/python.svg)
