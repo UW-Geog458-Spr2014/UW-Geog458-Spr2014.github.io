@@ -33,4 +33,4 @@ fancy sqaure ![fancy sqaure] (http://uw-geog458-spr2014.github.io/galleries/shap
 
 ## Tried to make a pink flower made by Theresa and Luke 
 
-Pink Flower ! [Pink flower](http://uw-geog458-spr2014.github.io/galleries/shapes/yoshitheturtle-theresa_luke.svg)
+Pink Flower: ![Pink flower](http://uw-geog458-spr2014.github.io/galleries/shapes/yoshitheturtle-theresa_luke.svg)
