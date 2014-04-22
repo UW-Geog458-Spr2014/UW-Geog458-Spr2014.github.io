@@ -38,3 +38,8 @@ Pink Flower: ![Pink flower](http://uw-geog458-spr2014.github.io/galleries/shapes
 ## Shape from Nakul 
 
 Star Flower: ![A Star Flower](http://uw-geog458-spr2014.github.io/galleries/shapes/nakulm-gallery.svg)
+
+## Shape from Jorge and Prescott
+
+24 Pointed Star: ![A 24 Pointed Star](http://uw-geog458-spr2014.github.io/galleries/shapes/turtles-and-circles-xtremej-ppettiette.svg)
+
