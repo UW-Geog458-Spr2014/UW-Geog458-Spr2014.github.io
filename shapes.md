@@ -43,3 +43,8 @@ Star Flower: ![A Star Flower](http://uw-geog458-spr2014.github.io/galleries/shap
 
 24 Pointed Star: ![A 24 Pointed Star](http://uw-geog458-spr2014.github.io/galleries/shapes/turtles-and-circles-xtremej-ppettiette.svg)
 
+## Hexagons from Saad
+
+3 hexagons from Saad: ![3 hexagons](http://uw-geog458-spr2014.github.io/galleries/shapes/Saads_hexagons.svg)
+
+
