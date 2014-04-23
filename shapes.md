@@ -60,3 +60,7 @@ drawing : ![guess what] (http://uw-geog458-spr2014.github.io/galleries/shapes/ba
 
 ##Venus and Chang's sun shape
 mini sun: ![Sun] (http://uw-geog458-spr2014.github.io/galleries/shapes/vlee-gaochang-sun.svg)
+
+## Robert's star
+
+star : ![star] (http://uw-geog458-spr2014.github.io/galleries/shapes/rdelisle-gallery.svg)
