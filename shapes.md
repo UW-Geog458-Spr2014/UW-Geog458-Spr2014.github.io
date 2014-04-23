@@ -47,4 +47,6 @@ Star Flower: ![A Star Flower](http://uw-geog458-spr2014.github.io/galleries/shap
 
 3 hexagons from Saad: ![3 hexagons](http://uw-geog458-spr2014.github.io/galleries/shapes/Saads_hexagons.svg)
 
+## Star from ahorstmann
 
+Star: ![Star](http://uw-geog458-spr2014.github.io/galleries/shapes/star-ahorstmann.svg)
