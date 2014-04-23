@@ -63,4 +63,4 @@ mini sun: ![Sun] (http://uw-geog458-spr2014.github.io/galleries/shapes/vlee-gaoc
 
 ## Robert's star
 
-star: ![star] (http://uw-geog458-spr2014.github.io/galleries/shapes/rdelisle-gallery.svg)
+star: ![star] (https://github.com/UW-Geog458-Spr2014/UW-Geog458-Spr2014.github.io/blob/master/galleries/shapes/rdelisle-gallery.svg)
