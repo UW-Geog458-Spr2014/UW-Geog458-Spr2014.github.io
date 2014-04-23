@@ -54,7 +54,7 @@ Star: ![Star](http://uw-geog458-spr2014.github.io/galleries/shapes/star-ahorstma
 
 ## James' drawing
 
-drawing : ![guess what] (http://uw-geog458-spr2014.github.io/galleries/shapes/basketmanjames-valenzak-gallery.svg)
+drawing : ![guess what] (http://uw-geog458-spr2014.github.io/galleries/shapes/basketmanjames_valenzak-gallery.svg)
 
 
 
