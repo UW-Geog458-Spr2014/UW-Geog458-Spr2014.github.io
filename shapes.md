@@ -52,9 +52,9 @@ Star Flower: ![A Star Flower](http://uw-geog458-spr2014.github.io/galleries/shap
 Star: ![Star](http://uw-geog458-spr2014.github.io/galleries/shapes/star-ahorstmann.svg)
 
 
-## James' drawing
+## James and Zach's drawing
 
-drawing : ![guess what] (http://uw-geog458-spr2014.github.io/galleries/shapes/basketmanjames_valenzak-gallery.svg)
+Guess what : ![guess what] (http://uw-geog458-spr2014.github.io/galleries/shapes/basketmanjames_valenzak-gallery.svg)
 
 
 
