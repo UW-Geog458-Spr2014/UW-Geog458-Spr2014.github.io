@@ -58,4 +58,5 @@ drawing : ![A shape] (http://uw-geog458-spr2014.github.io/galleries/shapes/baske
 
 
 
-
+##Venus and Chang's sun shape
+mini sun: (http://uw-geog458-spr2014.github.io/galleries/shapes/vlee-gaochang-sun.svg)
