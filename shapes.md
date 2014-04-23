@@ -50,3 +50,12 @@ Star Flower: ![A Star Flower](http://uw-geog458-spr2014.github.io/galleries/shap
 ## Star from ahorstmann
 
 Star: ![Star](http://uw-geog458-spr2014.github.io/galleries/shapes/star-ahorstmann.svg)
+
+
+## James' drawing
+
+drawing : ![A shape] (http://uw-geog458-spr2014.github.io/galleries/shapes/basketmanjames-valenzak-gallery.svg)
+
+
+
+
