@@ -69,4 +69,4 @@ star: ![star] (https://github.com/UW-Geog458-Spr2014/UW-Geog458-Spr2014.github.i
 
 ##BIN
 
-Shape ![A shape](http://uw-geog458-spr2014.github.io/galleries/shapes/ \Users\binzhu\amenn10086-gallert.svg)
+Shape ![A shape](http://uw-geog458-spr2014.github.io/galleries/shapes/\Users\binzhu\amenn10086-gallert.svg)
