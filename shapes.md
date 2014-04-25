@@ -5,6 +5,8 @@ layout: layout
 
 # Gallery of Interesting Shapes
 
+
+
 A [poor!] example: ![A Shape](http://uw-geog458-spr2014.github.io/galleries/shapes/lrb9-gallery.svg)
 
 ## Shape from Kasim and Cole
@@ -64,3 +66,7 @@ mini sun: ![Sun] (http://uw-geog458-spr2014.github.io/galleries/shapes/vlee-gaoc
 ## Robert's star
 
 star: ![star] (https://github.com/UW-Geog458-Spr2014/UW-Geog458-Spr2014.github.io/blob/master/galleries/shapes/rdelisle-gallery.svg)
+
+##BIN
+
+Shape ![A shape](http://uw-geog458-spr2014.github.io/galleries/shapes/ \Users\binzhu\amenn10086-gallert.svg)
